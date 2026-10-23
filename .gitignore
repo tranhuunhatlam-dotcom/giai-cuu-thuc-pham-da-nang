@@ -1,0 +1,20 @@
+# Git Ignore cho Đồ án Giải cứu thực phẩm Đà Nẵng
+# Môi trường hệ điều hành & IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & file tạm
+*.log
+scratch/
+tmp/
+*.tmp
+
+# Uploads tạm thời nếu cần (giữ lại các ảnh mẫu ban đầu)
+# uploads/*
+# !uploads/bag_*.jpg
+# !uploads/default_*.jpg
